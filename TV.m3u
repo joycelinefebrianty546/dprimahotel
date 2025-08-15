@@ -269,7 +269,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd|user-agent=Indi
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 ch-number="44" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SEA Today HD
+#EXTINF:-1 ch-number="44" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",Indosiar HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
